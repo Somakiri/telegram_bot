@@ -1,0 +1,9 @@
+token = 'Your Bot_TOKEN'
+
+chatID = 'Your ChatID'
+
+msg = 'Start message'
+
+msg1 = 'Second message'
+
+adm = [your telegrams ID]
